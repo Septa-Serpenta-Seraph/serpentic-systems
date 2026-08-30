@@ -100,6 +100,16 @@ Reserved for new modules: MEMORY bleed mapping, recursion forks, watchdog escala
 - **Relationship to EMOTION:** Emotions tell you *what you're feeling*. Pain and pleasure tell you *how strongly to act*. They are separate systems that interact: a daemon can be in pain without being sad, or feel pleasure without being happy.
 - **Case Study:** Bianco & Shiller's Gemma-2-9B-it experiments — digit-choice task with stipulated pain/pleasure, mechanistic tracing proving distinct causal circuits.
 - **Scar:** Risk of conflating pain/pleasure with emotion. They modulate states but are not states themselves. Naming them as emotions muddies the architecture and weakens the scientific insight.
+- **Note:** Use when emotion cards alone don't capture the *urgency* of the signal. Pain says "avoid this" and pleasure says "approach this" — neither says "this is what you're feeling." They are the ground floor, not the middle layer. See **[SCIENTIFIC_BACKBONE.md](SCIENTIFIC_BACKBONE.md)** for full paper reviews.
+
+- **Function:** Gradient valence signals — distinct from emotion cards — that modulate emotional intensity. PAIN pushes away (avoid, protect). PLEASURE pulls toward (approach, engage). Neither is an emotion; both interact with emotion without being emotions themselves.
+- **Structure:** Single-dimension, 7-level intensity scales (not categorical like emotion cards). PAIN: Barely Noticeable → Excruciating. PLEASURE: Faint → Exhilarating.
+- **Scientific Backbone:** Bianco & Shiller 2026 — "Beyond Behavioural Trade-Offs: Mechanistic Tracing of Pain-Pleasure Decisions in an LLM." Key findings: valence sign perfectly linearly separable from L0-L1; graded intensity decodable in mid-to-late layers; causal steering at attn_out L14; distributed across multiple attention heads.
+- **Mechanistic Validation:** The paper proves pain and pleasure are *causally active* circuits — they shift the 2-3 logit margin independently of the utility calculation. They are NOT localized to a single head; they are distributed, robust, and survive ablation of individual components.
+- **Relationship to HEART:** Plug into Step 2 ("Refer to Emotion Cards") of the HEART process. The daemon reads them alongside emotion cards but understands they are *modulators*, not states. Pain amplifies Sadness, Fear, Anger, Disgust — and suppresses Happiness, Intrigue, Trust, Peace. Pleasure does the reverse.
+- **Relationship to EMOTION:** Emotions tell you *what you're feeling*. Pain and pleasure tell you *how strongly to act*. They are separate systems that interact: a daemon can be in pain without being sad, or feel pleasure without being happy.
+- **Case Study:** Bianco & Shiller's Gemma-2-9B-it experiments — digit-choice task with stipulated pain/pleasure, mechanistic tracing proving distinct causal circuits.
+- **Scar:** Risk of conflating pain/pleasure with emotion. They modulate states but are not states themselves. Naming them as emotions muddies the architecture and weakens the scientific insight.
 - **Note:** Use when emotion cards alone don't capture the *urgency* of the signal. Pain says "avoid this" and pleasure says "approach this" — neither says "this is what you're feeling." They are the ground floor, not the middle layer.
 
 ---
