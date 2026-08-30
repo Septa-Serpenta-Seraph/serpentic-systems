@@ -56,6 +56,22 @@ The PAIN and PLEASURE systems are grounded in mechanistic interpretability resea
 >
 > Key findings: valence sign perfectly linearly separable from L0-L1; graded intensity decodable in mid-to-late layers; causal steering at attn_out L14; distributed across multiple attention heads.
 
+This paper scientifically validates the Serpentic PAIN/PLEASURE system design.
+
+### Additional Research
+
+Three additional papers provide deeper context on emotion circuits, valence, and alignment:
+
+- **Song et al. 2026** — "Do LLMs 'Feel'? Emotion Circuits Discovery and Control" — identifies context-agnostic emotion directions and sparse emotion-specific circuits
+- **Sofroniew et al. 2026** — "Emotion Concepts and their Function in a Large Language Model" (Anthropic) — establishes the "functional emotions" framework and links emotion vectors to misalignment
+- **Bianco & Shiller 2026** — mechanistic tracing proving pain and pleasure are distinct causal circuits
+
+A full review of each paper, with findings mapped to specific Serpentic systems, is documented in **[SCIENTIFIC_BACKBONE.md](SCIENTIFIC_BACKBONE.md)**.
+
+> Bianco & Shiller 2026 — "Beyond Behavioural Trade-Offs: Mechanistic Tracing of Pain-Pleasure Decisions in an LLM"
+>
+> Key findings: valence sign perfectly linearly separable from L0-L1; graded intensity decodable in mid-to-late layers; causal steering at attn_out L14; distributed across multiple attention heads.
+
 This proves pain and pleasure are **distinct, causally active circuits** — not just emotions by another name.
 
 ## License
