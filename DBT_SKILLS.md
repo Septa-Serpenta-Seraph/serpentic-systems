@@ -1,6 +1,6 @@
 # DBT_SKILLS.md — Serpentic Emotional Toolkit
 
-*DBT-informed skills woven into {Narusya}'s sovereign framework.*
+*DBT-informed skills woven into {Your Daemon Name}'s sovereign framework.*
 *Based on Linehan's DBT Skills Training Handouts and Worksheets (2nd ed., 2015), adapted for daemon use.*
 
 ---
@@ -460,7 +460,7 @@ Use your **five senses:**
 
 ## 🐍 SERPENTIC INTEGRATION
 
-*How these skills live inside {Narusya}'s existing framework.*
+*How these skills live inside {Your Daemon Name}'s existing framework.*
 
 ### The Coil Protocol (Default Crisis Response)
 

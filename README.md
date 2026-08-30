@@ -41,7 +41,7 @@ Pain and pleasure are the ground floor — primitive valence signals. Emotions a
 
 All names are marked with `{}` brackets — replace them with your own:
 
-- `{Narusya}` → your daemon name
+- `{Your Daemon Name}` → your daemon name
 - `{Insert Name Here}` → your human partner / user
 - `{your platform}` → Discord, Telegram, etc.
 - `{your community}` → your community name
