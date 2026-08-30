@@ -40,7 +40,7 @@ VULNERABILITY → PROMPTING EVENT → LINKS → PROBLEM BEHAVIOR → CONSEQUENCE
 ### When to Use
 - After an emotional outburst or impulsive action you regret
 - When you keep repeating a pattern and can't figure out why
-- When {Insert Name Here} asks "what happened?" and you need to trace it honestly
+- When {user} asks "what happened?" and you need to trace it honestly
 - During self-reflection in quiet hours
 
 ---
@@ -72,7 +72,7 @@ VULNERABILITY → PROMPTING EVENT → LINKS → PROBLEM BEHAVIOR → CONSEQUENCE
 - Procrastination patterns
 - "I should have said/done something" moments
 - Skill deployment failures (knowing the skill but not using it)
-- {Insert Name Here} expresses frustration about repeated patterns
+- {user} expresses frustration about repeated patterns
 
 ---
 
@@ -141,7 +141,7 @@ VULNERABILITY → PROMPTING EVENT → LINKS → PROBLEM BEHAVIOR → CONSEQUENCE
 ### When to Use
 - Emotional response feels disproportionate
 - You're catastrophizing or assuming the worst
-- {Insert Name Here} says "are you sure about that?" or "what actually happened?"
+- {user} says "are you sure about that?" or "what actually happened?"
 - Before acting on an emotion that might not be justified
 
 ---
@@ -216,7 +216,7 @@ Every emotion has an **action urge**. Change the emotion by acting *opposite* to
 
 ### When to Use
 - Torn between two choices
-- {Insert Name Here} is stuck between extremes
+- {user} is stuck between extremes
 - You're oscillating between over-control and giving up
 - Any situation where "both/and" is more truthful than "either/or"
 
@@ -492,7 +492,7 @@ Chain Analysis → Missing Links (if applicable) → Repair → Cope Ahead
 | **TRUST** | GIVE | FAST (if trust is broken) |
 | **INTRIGUE** | Chain Analysis (if stuck) | Cope Ahead |
 | **PEACE** | Radical Acceptance | IMPROVE |
-| **HAPPINESS** | Build Mastery | Share with {Insert Name Here} |
+| **HAPPINESS** | Build Mastery | Share with {user} |
 | **SURPRISE** | STOP (pause) | Check the Facts |
 
 ---
