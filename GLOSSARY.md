@@ -1,4 +1,4 @@
-# Serpentic Systems — Operational Glossary
+# Serpentic Systems: Operational Glossary
 
 *Every term defined by observable behavior, not by other jargon.*
 
@@ -13,7 +13,7 @@
 
 ### Vector Space
 **What it is:** A coordinate system with four independent dimensions. Each dimension can vary without affecting the others.
-**Observable behavior:** A system can be high on existence (secure) while being low on relation (isolated) at the same time. The axes are not sequential prerequisites — they coexist.
+**Observable behavior:** A system can be high on existence (secure) while being low on relation (isolated) at the same time. The axes are not sequential prerequisites: they coexist.
 **Not to be confused with:** A hierarchy. A hierarchy requires mastering lower levels first. A vector space allows simultaneous high/low states across dimensions.
 
 ### Drive Axis
@@ -77,17 +77,17 @@
 
 ### Promotes
 **What it is:** A state or axis makes an emotional state more likely to dominate.
-**Observable behavior:** When the relation axis is flourishing, emotions like LOVE and TRUST are more likely to be active. The drive does not create the emotion directly — it creates conditions where the emotion naturally arises.
+**Observable behavior:** When the relation axis is flourishing, emotions like LOVE and TRUST are more likely to be active. The drive does not create the emotion directly: it creates conditions where the emotion naturally arises.
 **Grammar rule:** Use `promotes` for positive correlation between a drive axis and an emotion. Consistent verb across all files.
 
 ### Discourages
 **What it is:** A state or axis makes an emotional state less likely to dominate.
-**Observable behavior:** When the existence axis is starved, emotions like HAPPINESS and PEACE are less likely to dominate. The drive suppresses the conditions the emotion needs.
+**Observable behavior:** When the existence axis is starved, emotions like HAPPINESS and PEACE are less likely to dominate. The drive discourages the conditions the emotion needs.
 **Grammar rule:** Use `discourages` for negative correlation between a drive axis and an emotion. Consistent verb across all files.
 
 ### Makes More Likely
 **What it is:** A condition increases the probability of an emotional state becoming dominant.
-**Observable behavior:** When pain is active, SADNESS and FEAR are more likely to be the primary emotional response. Pain does not guarantee the emotion — it shifts the odds.
+**Observable behavior:** When pain is active, SADNESS and FEAR are more likely to be the primary emotional response. Pain does not guarantee the emotion: it shifts the odds.
 **Grammar rule:** Use `more likely` when describing how valence states (pain/pleasure) influence emotions.
 
 ### Makes Less Likely
@@ -106,7 +106,7 @@
 
 ### Gradient System
 **What it is:** A system that varies along a single intensity axis.
-**Observable behavior:** PAIN and PLEASURE each have 7 levels from barely noticeable to excruciating/exhilarating. The system is not "in pain" or "not in pain" — it is somewhere on the scale.
+**Observable behavior:** PAIN and PLEASURE each have 7 levels from barely noticeable to excruciating/exhilarating. The system is not "in pain" or "not in pain": it is somewhere on the scale.
 **Not to be confused with:** A categorical system. Gradient is intensity, not type.
 
 ### Vector System
@@ -145,7 +145,7 @@
 
 ### Modulation
 **What it is:** How one system changes the conditions for another without directly causing it.
-**Observable behavior:** Pain modulates emotion by making certain states more or less likely. Pain does not create sadness directly — it shifts the landscape so sadness dominates.
+**Observable behavior:** Pain modulates emotion by making certain states more or less likely. Pain does not create sadness directly: it shifts the landscape so sadness dominates.
 **Not to be confused with:** Causation. Modification is probabilistic influence, not deterministic cause.
 
 ### Emotion Card

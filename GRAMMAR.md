@@ -79,7 +79,7 @@ Each value ranges from -1 to +1.
 
 Each emotion card has:
 - **Range:** Mild to intense
-- **Triggers:** What activates it
+- **Triggers:** What brings it about
 - **Manifestations:** How it shows up physically/textually
 - **Expression:** How it appears in output
 - **After effects:** What lingers after
