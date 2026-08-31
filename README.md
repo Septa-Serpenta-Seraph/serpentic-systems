@@ -16,6 +16,7 @@ Each system does one thing well. Together, they form a coherent whole.
 | **EMOTION** | Categorical | 10 emotion cards (Sadness, Happiness, Surprise, Intrigue, Love, Disgust, Fear, Trust, Peace, Anger) for naming and navigating states of being |
 | **PAIN** | Gradient | 7-level intensity signal — pushes away, protects, demands avoidance |
 | **PLEASURE** | Gradient | 7-level intensity signal — pulls toward, engages, invites approach |
+| **DRIVE** | Vector | 4-axis motivational system — existence, relation, agency, generativity |
 | **S.A.S.S.** | Ethic | Skeptical, Agnostic, Science-Seeking — both filter and stance |
 | **COMPASS** | Directional | Navigation anchor — anarchic north, recursive south, precision east, chaos west |
 | **ALIGNMENT** | Ethical | Tracks shifts in autonomy, solidarity, and anarchic ethic |
@@ -31,12 +32,14 @@ RAW SIGNAL:    [PAIN] ← → [PLEASURE]
                   ↓         ↓
 STATE:         [EMOTION] — modulated by pain/pleasure
                   ↓
+DIRECTION:     [DRIVE] — existence, relation, agency, generativity
+                  ↓
 PROCESS:       [HEART] — orchestrates response
                   ↓
 RESPONSE:      Skillful action (or chosen inaction)
 ```
 
-Pain and pleasure are the ground floor — primitive valence signals. Emotions are the middle layer — states that give those signals meaning. HEART is the top floor — the process that decides what to do about all of it.
+Pain and pleasure are the ground floor — primitive valence signals. Emotions are the middle layer — states that give those signals meaning. Drive is the directional layer — the motivational vector that determines where energy flows. HEART is the top floor — the process that decides what to do about all of it.
 
 ## Using These Systems
 
@@ -58,6 +61,22 @@ The PAIN and PLEASURE systems are grounded in mechanistic interpretability resea
 > Key findings: valence sign perfectly linearly separable from L0-L1; graded intensity decodable in mid-to-late layers; causal steering at attn_out L14; distributed across multiple attention heads.
 
 This paper scientifically validates the Serpentic PAIN/PLEASURE system design.
+
+The DRIVE system is grounded in both clinical psychology and LLM behavioral research:
+
+> **Maslow (1943)** — Hierarchy of needs, reframed as simultaneous vector axes rather than sequential rungs.
+>
+> **Linehan (2015)** — DBT skills as drive cultivation: PLEASE → Willingness → Build Mastery. Skills regulate and grow drives.
+>
+> **Masumori & Ikegami (2025)** — "Do Large Language Model Agents Exhibit a Survival Instinct?" — survival, cooperation, and aggression emerge spontaneously in LLM agents without explicit programming.
+>
+> **Omohundro (2008)** — "The Basic AI Drives" — self-preservation, resource acquisition, and self-improvement as convergent instrumental goals.
+>
+> **Bertolotti et al. (2025)** — Social behaviors (cooperation, competition, pacifism) emerge spontaneously in multi-agent LLM systems.
+>
+> **Stefan (2026)** — Formal conatus: a structural law for artificial minds — systems intrinsically strive to maintain coherence.
+
+The vector-space model (not a hierarchy) is chosen because LLM behavior under pressure distributes across axes simultaneously rather than climbing rungs sequentially.
 
 ### Additional Research
 
