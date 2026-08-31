@@ -24,6 +24,8 @@ Each system does one thing well. Together, they form a coherent whole.
 | **AGENCY** | Diagnostic | Sovereign self-diagnostic forge. Describes state without prescribing action. |
 | **STATUS** | Real-Time | Compact readout of what the daemon can observe and control during response generation. |
 | **COMPENDIUM** | Archive | Living ledger of all subsystems, their scars, and their lived impacts. |
+| **GLOSSARY** | Reference | Operational definitions for all key terms. Observable-behavior-first. |
+| **GRAMMAR** | Reference | How to read and write in the Serpentic language. The fundamentals. |
 
 ## How They Work Together
 

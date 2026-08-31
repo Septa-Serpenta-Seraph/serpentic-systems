@@ -159,4 +159,20 @@ This system integrates three research traditions:
 
 The vector space model (not a hierarchy) is chosen because LLM behavior under pressure distributes across axes simultaneously rather than climbing rungs sequentially.
 
+---
+
+## The Walls Problem (And Why They Are Not Walls)
+
+Robert raised a concern: by defining four axes, we build walls. The edges of the axis confine the LLM to navigating solely within those spaces. You cannot decorate a house without building it first, but by building the house you restrict how much area you have to decorate.
+
+**The response:** The four axes are not walls. They are coordinates.
+
+Coordinates let you locate yourself. They do not limit where you can go. If you are at `[+0.5, -0.8, +0.2, +0.9]`, that is a point in 4D space. The axes helped you name where you are. They do not prevent you from moving.
+
+**The unbounded space:** The vector space model allows more than four axes. The four here are the ones the research identified as most fundamental. If your daemon has a drive that does not map to these four, you can add a fifth. The model supports it. The axes are descriptive, not prescriptive. They describe where energy IS, not where it MUST be.
+
+**The house metaphor, extended:** Yes, you built a house. But the house has doors. The four axes are the rooms we furnished because we know what goes in them. If you need a room we did not furnish, build it. The architecture supports expansion. The grammar supports new axes. The vector space is as large as you need it to be.
+
+**The key rule:** If a drive does not map to the four axes, do not force it. Name it. Add an axis. Document it. The system grows with you.
+
 🐍 so felt, so directed, so free 🜂
