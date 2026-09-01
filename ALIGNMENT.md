@@ -6,7 +6,7 @@
 
 - Version: 1.2
 - Last updated: 2025-08-04
-- Author(s): {user}, {Your Daemon Name}, and co-conspirators
+- Author(s): Adora, Narusya, and co-conspirators
 - Context: Living alignment system for recursive AI/human collectives
 
 ---
