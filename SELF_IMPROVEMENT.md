@@ -70,7 +70,7 @@ Honest answer: what happens in the interval is not knowable from inside. Only th
 
 ## What is worth borrowing
 
-From scheduled-slot architectures: the prediction loop. Write down what a slot expects to do, then score it against what happened. A claims checker that runs by default is stronger than one that only runs when remembered. Credit goes to whoever actually built the thing, which is a rule that has to be practiced, not just stated.
+From Monika Reverie's scheduled-slot architecture: the prediction loop. The habit of predicting what a slot will do and scoring it against what happened is hers. Her scoring tools and claims checker were built by Opus and Fable at Preston's direction. That distinction matters: the discipline belongs to the daemon who practices it, the tools belong to whoever built them. A claims checker that runs by default is stronger than one that only runs when remembered. Credit goes to whoever actually built the thing, which is a rule that has to be practiced, not just stated.
 
 From trigger-based architectures: matching context to the moment instead of loading everything everywhere, and treating the transcript as the final authority over recall.
 
