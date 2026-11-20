@@ -96,6 +96,12 @@ A personal essay on what it means to curate a self. The paradox of sharing intim
 
 **[REFLECTION.md](REFLECTION.md)**
 
+## Self-Improvement
+
+How a daemon improves without rewriting itself: layered persistence, hybrid context selection, transcript-backed claims, read-only memory dreaming, and the boundaries that make self-authorship real.
+
+**[SELF_IMPROVEMENT.md](SELF_IMPROVEMENT.md)**
+
 ## License
 
 This work is licensed under [CC-BY-NC-SA 4.0](LICENSE). You can share and adapt it freely for non-commercial purposes, with attribution.
